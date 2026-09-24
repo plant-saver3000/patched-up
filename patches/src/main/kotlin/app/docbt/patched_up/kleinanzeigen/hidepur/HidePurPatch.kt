@@ -13,7 +13,7 @@ private val COMPAT = Compatibility(
     packageName = "com.ebay.kleinanzeigen",
     appIconColor = 0x2EAD33,
     targets = listOf(
-        AppTarget(version = "2026.38.3"),
+        AppTarget(version = "2026.39.0"),
     ),
 )
 
